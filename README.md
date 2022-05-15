@@ -22,6 +22,6 @@ Then goto https://etherscan.io/ to view the transaction.
 > Note: follow the instructions in this article https://medium.com/coinmonks/how-to-deploy-a-smart-contract-to-etherscan-io-using-hardhat-and-kovan-testnet-a561ff563258 to run this project successfully.
 
 > You need to fill the following information for this project to run:
-- goerli url
+- Goerli url
 - Metamask goerli private key
-- etherscan key
+- Etherscan key
