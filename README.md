@@ -1,7 +1,7 @@
 # Gofundme
  This is a solidity smart contract project for-profit crowdfunding platform that allows people to raise money for events ranging from life events such as celebrations and graduations to challenging circumstances like accidents and illnesses.
  
- ## **Features:***
+ ## **Features:**
  
 - Donate to Campaign
 - Create Campaign
